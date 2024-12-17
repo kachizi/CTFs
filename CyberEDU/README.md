@@ -2,7 +2,7 @@
 Documenting challenges and solutions from various Capture The Flag competitions.
 
 ## Challenges
-# robots
+# 1.robots
 1. After selecting and opening an appropriate question, click [Unlock Challenge].
 2. Click [Start Task] on the left side of the screen and wait for a while.
 3. After waiting a minute or two, the address will appear in yellow letters on the screen.
